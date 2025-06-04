@@ -1,18 +1,12 @@
-# Python-related
+# Python cache files
+__pycache__/
 *.pyc
 *.pyo
 *.pyd
-__pycache__/
 
-# Virtual environments
+# Virtual environment folder
 venv/
-.env/
+env/
 
 # Streamlit generated files
-.streamlit/
-
-# Jupyter Notebooks
-.ipynb_checkpoints/
-
-# Logs
-*.log
+.cache/
